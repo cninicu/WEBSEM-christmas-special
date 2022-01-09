@@ -1,0 +1,8 @@
+A kid that receives lego is interested in construction
+{?kid owl:receives ?lego.
+?lego owl:relatedTo ?construction} => {?kid owl:interestedIn ?construction}
+
+A kid that receives a tangible gift not sent by mail is corona negative
+{?kid owl:receives ?gift.
+?gift rdf:type owl:Tangible_Gift.
+?gift owl:sentByMail @false} => {?kid owl:coronaPositive @false}
