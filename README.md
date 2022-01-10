@@ -1,4 +1,4 @@
-# Web semantics, Christmas special 
+# Web semantics assignment
 
 
 ## Description
