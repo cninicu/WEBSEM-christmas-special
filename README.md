@@ -28,7 +28,7 @@ The ontology must meet the following requirements:
 
 ## Deliverables
 
-1. christmas.owl file contains the OWL ontology definition, PROTEGE VERSION 5.5
+1. [christmas.owl](https://github.com/cninicu/web-semantics-cs/blob/master/christmas.owl) file contains the OWL ontology definition, PROTEGE VERSION 5.5
 
 2. https://cninicu.github.io/web-semantics-cs/ contains the explanation document for the assignmenet: 
 
