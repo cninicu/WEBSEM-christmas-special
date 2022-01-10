@@ -30,7 +30,7 @@ The ontology must meet the following requirements:
 
 1. [christmas.owl](https://github.com/cninicu/web-semantics-cs/blob/master/christmas.owl) file contains the OWL ontology definition, PROTEGE VERSION 5.5
 
-2. https://cninicu.github.io/web-semantics-cs/ contains the explanation document for the assignmenet: 
+2. [cninicu.github.io](https://cninicu.github.io/WEBSEM-christmas-special/) contains the explanation document for the assignmenet: 
 
 - Knowledge Model Explanation Story
 - Classes
